@@ -1,0 +1,17 @@
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\bin\Debug\net8.0\HostelManagement.dbContextdemo.deps.json
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\bin\Debug\net8.0\HostelManagement.dbContextdemo.dll
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\bin\Debug\net8.0\HostelManagement.dbContextdemo.pdb
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\bin\Debug\net8.0\HostelManagement.Models.dll
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\bin\Debug\net8.0\HostelManagement.Models.pdb
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelManagement.dbContextdemo.csproj.AssemblyReference.cache
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelManagement.dbContextdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelManagement.dbContextdemo.AssemblyInfoInputs.cache
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelManagement.dbContextdemo.AssemblyInfo.cs
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelManagement.dbContextdemo.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelMa.3A474AD9.Up2Date
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelManagement.dbContextdemo.dll
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\refint\HostelManagement.dbContextdemo.dll
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelManagement.dbContextdemo.pdb
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\ref\HostelManagement.dbContextdemo.dll
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\bin\Debug\net8.0\HostelManagement.dbContextdemo.runtimeconfig.json
+C:\Users\ganes\source\repos\HostelManagement.dbContextdemo\obj\Debug\net8.0\HostelManagement.dbContextdemo.genruntimeconfig.cache

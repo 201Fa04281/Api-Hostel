@@ -1,0 +1,11 @@
+C:\Users\ganes\source\repos\HostelManagement.Models\bin\Debug\net8.0\HostelManagement.Models.deps.json
+C:\Users\ganes\source\repos\HostelManagement.Models\bin\Debug\net8.0\HostelManagement.Models.dll
+C:\Users\ganes\source\repos\HostelManagement.Models\bin\Debug\net8.0\HostelManagement.Models.pdb
+C:\Users\ganes\source\repos\HostelManagement.Models\obj\Debug\net8.0\HostelManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganes\source\repos\HostelManagement.Models\obj\Debug\net8.0\HostelManagement.Models.AssemblyInfoInputs.cache
+C:\Users\ganes\source\repos\HostelManagement.Models\obj\Debug\net8.0\HostelManagement.Models.AssemblyInfo.cs
+C:\Users\ganes\source\repos\HostelManagement.Models\obj\Debug\net8.0\HostelManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\HostelManagement.Models\obj\Debug\net8.0\HostelManagement.Models.dll
+C:\Users\ganes\source\repos\HostelManagement.Models\obj\Debug\net8.0\refint\HostelManagement.Models.dll
+C:\Users\ganes\source\repos\HostelManagement.Models\obj\Debug\net8.0\HostelManagement.Models.pdb
+C:\Users\ganes\source\repos\HostelManagement.Models\obj\Debug\net8.0\ref\HostelManagement.Models.dll
